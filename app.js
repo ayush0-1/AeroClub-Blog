@@ -42,7 +42,7 @@ const homeData = "Welcome to AEROCLUB, HBTU blogs. Here you will get to know abo
 const aboutData = "As members of AeroClub, students have the opportunity to engage in designing, fabricating, and simulating various free-flight, radio-controlled planes, and drones. To overcome the challenges of a lack of an innovative environment, an adequate platform, and ample resources, AeroClub came into existence in 2017 under the Association of Mechanical Engineering (AME) by our seniors Ravindra Kesarwani, Monica Gupta, Rahul Kumar, Shikhar Kama under Dr. S.K.S. Yadav (Assistant Prof. MED) as the club’s Convener."
 const contactData = "Fat new smallness few supposing suspicion two. Course sir people worthy horses add entire suffer. How one dull get busy dare far. At principle perfectly by sweetness do. As mr started arrival subject by believe. Strictly numerous outlived kindness whatever on we no on addition"
 
-mongoose.connect("mongodb+srv://ayushtiwari18072001:16112111@cluster0.4kfo9mg.mongodb.net/blog")
+mongoose.connect("mongodb+srv://ayushtiwari18072001:16112111@cluster0.jqp4k6v.mongodb.net/blog")
 
 
 //s
